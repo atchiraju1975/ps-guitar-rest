@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 import com.guitar.model.Manufacturer;
 
 @Repository
-public class ManufacturerRepository {
+public class 	ManufacturerRepository {
 	@PersistenceContext
 	private EntityManager entityManager;
 
